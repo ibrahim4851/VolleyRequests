@@ -21,12 +21,6 @@
         android:text="Get Method Json Object"/>
 
     <Button
-        android:id="@+id/postarray"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Post Method Json Array"/>
-
-    <Button
         android:id="@+id/postobject"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
